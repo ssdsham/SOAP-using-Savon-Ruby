@@ -1,0 +1,3 @@
+DATABASE_NAME: dbi:Oracle:host=[enter host address here];SERVICE_NAME=[enter service name here];
+USER_NAME: user
+PASSWORD: password
